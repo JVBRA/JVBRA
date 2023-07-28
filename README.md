@@ -1,4 +1,7 @@
-### Olá! Eu sou João Victor ✌️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03E0FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03E0FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Victor;I'm+23+years+old;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail.google.com/mail/u/porfiriojoaovictor44@gmail.com)
 [![Wats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514997500872)
 
