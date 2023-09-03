@@ -5,7 +5,7 @@
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:porfiriojoaovictor44@gmail.com)
 [![Wats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514997500872)
 
-![Anurag's GitHub stats](https://githubhttps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white-readme-stats.vercel.app/api?username=JVBRA&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVBRA&show_icons=true&theme=radical)
 
 ### Tecnologias que eu utilizo!
 <div style="display: inline-block;"><br>
